@@ -21,7 +21,7 @@ repository               : "dinankg/dinankg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.jpg"
   name             : "Dinank Gupta"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate, Biomedical Engineering, University of Michigan"
